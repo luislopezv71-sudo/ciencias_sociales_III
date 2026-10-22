@@ -1,0 +1,47 @@
+{
+  "version": "2.0",
+  "recursos": [
+    {
+      "tipo": "video",
+      "titulo": "Video 1 · ¿Qué es el Estado de bienestar?",
+      "descripcion": "Fundamentos e historia",
+      "url": ""
+    },
+    {
+      "tipo": "video",
+      "titulo": "Video 2 · México y sus instituciones",
+      "descripcion": "Historia del IMSS, ISSSTE e INFONAVIT",
+      "url": ""
+    },
+    {
+      "tipo": "video",
+      "titulo": "Video 3 · Caso de Guerrero",
+      "descripcion": "Análisis de una comunidad costera hipotética",
+      "url": ""
+    },
+    {
+      "tipo": "audio",
+      "titulo": "Audio 1 · Historia y conceptos",
+      "descripcion": "Diálogo educativo en español latinoamericano",
+      "url": ""
+    },
+    {
+      "tipo": "audio",
+      "titulo": "Audio 2 · Instituciones y políticas públicas",
+      "descripcion": "Ejemplos de México",
+      "url": ""
+    },
+    {
+      "tipo": "audio",
+      "titulo": "Audio 3 · Repaso guiado",
+      "descripcion": "Preparación de evaluación",
+      "url": ""
+    },
+    {
+      "tipo": "infografia",
+      "titulo": "Infografía de NotebookLM",
+      "descripcion": "Recurso visual adicional",
+      "url": ""
+    }
+  ]
+}
